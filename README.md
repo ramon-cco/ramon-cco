@@ -5,8 +5,7 @@
 - 🌱 Aprendendo javascript, node, react
 - 💬 Meu contato: contato@ramonti.com.br
 <br>
-<<<<<<< Updated upstream
-<br>
+
 =======
 
 >>>>>>> Stashed changes

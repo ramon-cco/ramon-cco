@@ -7,7 +7,12 @@
 💻 Iniciei minha carreira na tecnologia com Hardware, seguir pelos caminhos das redes (cabeamento estruturado e demais labirintos tech), chegando ao Desenvolvimento de Software. Devido as transições por diversas áreas dentro da TI vejo como um diferencial, com essas experiencias agregaram valor a minha carreira.
 Sou apaixonado e movido por tecnologia e como ela influencia positivamente na vida das pessoas. Além de trabalhar com o que gosto, sou dedicado em aprender o que se faz necessário para o meu crescimento.💻
 
-![Snake animation](https://github.com/ramon-cco/ramon-cco/blob/output/github-contribution-grid-snake.svg)
+###
+
+<img href="https://raw.githubusercontent.com/ramon-cco/ramon-cco/blob/output/snake.svg" alt="Snake animation" />
+
+###
+
 <br/>
 
 ## Minhas Skills

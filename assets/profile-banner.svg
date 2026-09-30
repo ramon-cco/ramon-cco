@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">Ramon Oliveira — Pessoas, processos e tecnologia</title>
+<desc id="desc">Gestão de projetos e produtos, contratos de TI e Conexxio Tecnologia.</desc>
+<rect width="1200" height="320" rx="20" fill="#101820"/>
+<path d="M895 0v320M1010 0v320M1125 0v320M830 80h370M830 160h370M830 240h370" stroke="#253747" stroke-width="1"/>
+<circle cx="1010" cy="160" r="100" fill="none" stroke="#2587ed" stroke-width="2"/>
+<circle cx="1010" cy="160" r="62" fill="none" stroke="#2587ed" stroke-width="2"/>
+<circle cx="1010" cy="160" r="9" fill="#2587ed"/>
+<path d="M48 55h52" stroke="#2587ed" stroke-width="5"/>
+<text x="48" y="132" fill="#ffffff" font-family="Arial, sans-serif" font-size="60" font-weight="700">Ramon Oliveira</text>
+<text x="50" y="184" fill="#c8d4df" font-family="Arial, sans-serif" font-size="26">Pessoas, processos e tecnologia.</text>
+<text x="50" y="247" fill="#7cb8fa" font-family="Arial, sans-serif" font-size="19">PROJETOS · PRODUTOS · CONTRATOS DE TI · CONEXXIO</text>
+</svg>

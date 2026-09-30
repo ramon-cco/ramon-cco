@@ -9,7 +9,7 @@
 [![Conexxio](https://img.shields.io/badge/Conexxio-2587ED?style=for-the-badge)](https://conexxio.com.br)
 [![E-mail](https://img.shields.io/badge/Contato-101820?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramoncco@gmail.com)
 
-[Atuação](#-onde-atuo) · [Tecnologia](#-minha-base-técnica) · [Projetos](#-explore-meus-repositórios) · [Trajetória](#-trajetória-e-qualificações)
+[Atuação](#-onde-atuo) · [Tecnologia](#-minha-base-técnica) · [Trajetória](#-trajetória-e-qualificações)
 
 </div>
 
@@ -17,7 +17,7 @@
 
 Sou Ramon, profissional de TI com trajetória em desenvolvimento de sistemas, infraestrutura, liderança de equipes e gestão de projetos. Gosto de entender o problema, aproximar as pessoas certas e transformar necessidades de negócio em soluções que façam sentido na prática.
 
-Minha experiência reúne desenvolvimento, gestão e acompanhamento de serviços de TI. Aqui compartilho projetos e estudos que complementam essa trajetória.
+Minha bagagem técnica foi construída ao longo de anos de atuação: do hardware e da infraestrutura de redes ao desenvolvimento de sistemas, passando por DevOps, projetos e decisões de arquitetura. Essa visão integrada sustenta minha atuação na liderança de equipes, na gestão de TI e na avaliação de soluções e contratos tecnológicos.
 
 ## 🎯 Onde atuo
 
@@ -31,26 +31,36 @@ Minha experiência reúne desenvolvimento, gestão e acompanhamento de serviços
 
 ## 🛠 Minha base técnica
 
-Tecnologias utilizadas ao longo da minha experiência em desenvolvimento:
+Minha experiência atravessa diferentes camadas da TI: a infraestrutura que sustenta a operação, os sistemas que atendem ao negócio e as decisões técnicas que orientam sua evolução. Essa bagagem me permite dialogar com equipes de desenvolvimento e infraestrutura, analisar requisitos e conectar escolhas tecnológicas às necessidades da organização.
 
+### Desenvolvimento e projetos de sistemas
+
+Experiência em projetos, desenvolvimento e manutenção de aplicações web, incluindo **PHP, JavaScript, React e Node.js**, além de **APIs REST, integrações e microsserviços**. Atuação no levantamento de requisitos, definição de escopo e acompanhamento de entregas, aproximando negócio e implementação técnica.
+
+![PHP](https://img.shields.io/badge/PHP-101820?style=flat-square&logo=php&logoColor=777BB4)
+![JavaScript](https://img.shields.io/badge/JavaScript-101820?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-101820?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-101820?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
-![JavaScript](https://img.shields.io/badge/JavaScript-101820?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Git](https://img.shields.io/badge/Git-101820?style=flat-square&logo=git&logoColor=F05032)
 ![APIs REST](https://img.shields.io/badge/APIs-REST-2587ED?style=flat-square)
-![Jira](https://img.shields.io/badge/Jira-101820?style=flat-square&logo=jira&logoColor=2684FF)
 
-Os repositórios públicos também incluem projetos e estudos em **TypeScript, Python e Java**, além de atividades da **DIO** e da **Rocketseat**.
+### Infraestrutura, redes e operação
 
-## 🔎 Explore meus repositórios
+Base em **hardware, cabeamento estruturado e infraestrutura de redes**, com formação em **roteamento e switching Cisco**. Experiência em gestão de infraestrutura e atuação em DevOps, conectando as necessidades das aplicações ao ambiente que sustenta os serviços de TI.
 
-| Projeto | Estudos e linguagens |
-| :--- | :--- |
-| **[React Weather App ↗](https://github.com/ramon-cco/React-Weather-App)**<br>Aplicação de clima em React. | **[TypeScript ↗](https://github.com/ramon-cco/TypeScript)**<br>Repositório de estudos em TypeScript. |
-| **[NLW Together ↗](https://github.com/ramon-cco/nlw-together)**<br>Projeto da semana NLW Together, da Rocketseat. | **[JavaScript ↗](https://github.com/ramon-cco/JavaScript)**<br>Repositório de estudos em JavaScript. |
-| **[Python DATA — DIO ↗](https://github.com/ramon-cco/Python_DATA---DIO)**<br>Repositório com código em Python. | **[CurriculoApp ↗](https://github.com/ramon-cco/CurriculoApp)**<br>Repositório com código em Java. |
+![Infraestrutura](https://img.shields.io/badge/Infraestrutura_de_TI-101820?style=flat-square)
+![Redes](https://img.shields.io/badge/Redes-101820?style=flat-square&logo=cisco&logoColor=1BA0D7)
+![DevOps](https://img.shields.io/badge/DevOps-2587ED?style=flat-square)
+![Git](https://img.shields.io/badge/Git-101820?style=flat-square&logo=git&logoColor=F05032)
 
-[**Ver todos os repositórios →**](https://github.com/ramon-cco?tab=repositories)
+### Arquitetura e análise de soluções
+
+Entendimento de **arquitetura de sistemas**, da relação entre aplicações, integrações e infraestrutura e dos impactos das escolhas técnicas na operação. Essa visão apoia a análise de requisitos, estudos de viabilidade, avaliação de soluções e discussão de alternativas com as equipes técnicas.
+
+### Gestão de TI com fundamento técnico
+
+Aplico essa experiência no **planejamento de projetos e contratações**, na elaboração de documentação técnica e no acompanhamento de qualidade, riscos, indicadores e níveis de serviço. A bagagem prática ajuda a alinhar escopo, capacidade de entrega e necessidades do negócio.
+
+**Conhecimentos complementares:** projetos e estudos em TypeScript, Python e Java; Git e Jira no contexto do desenvolvimento e da gestão de entregas.
 
 ## 🧭 Trajetória e qualificações
 
